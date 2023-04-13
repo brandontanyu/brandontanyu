@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently a computer engineering undergraduate student at National Higher Polytechnic Institute of The University of Bamenda 
-- 🌱 I’m currently learning Datascience and Machine Learning with enthusiasm for artificial intelligence and its restructuring of the medical and financial industry 
+- 🌱 I learn Datascience and Machine Learning with enthusiasm for artificial intelligence and its restructuring of the medical and financial industry 
 <!--- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about datascience, machine learning and statistics
