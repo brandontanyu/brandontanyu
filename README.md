@@ -6,8 +6,8 @@
 <!--- **brandontanyu/brandontanyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently a computer engineering undergraduate student at National Higher Polytechnic Institute of The University of Bamenda 
-- 🌱 I learn Datascience and Machine Learning with enthusiasm for artificial intelligence and its restructuring of the medical and financial industry 
+- 🔭 I’m a computer engineering undergraduate student at National Higher Polytechnic Institute of The University of Bamenda, Cameroon 
+- 🌱 I am into Datascience and Machine Learning with enthusiasm for artificial intelligence and its restructuring of the medical and financial industry 
 <!--- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about datascience, machine learning and statistics
