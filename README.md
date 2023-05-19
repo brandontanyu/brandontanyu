@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m a computer engineering undergraduate student at National Higher Polytechnic Institute of The University of Bamenda, Cameroon
-- 
+
 - 🌱 I am into Datascience and Machine Learning with enthusiasm for artificial intelligence and its restructuring of the medical and financial industry 
 
 - 💬 Ask me about datascience, machine learning and statistics
