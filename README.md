@@ -1,6 +1,6 @@
 
 
-# Hi there, I am Brandon 👋
+# Hi, I am Brandon 👋
 
 
 - 🔭 I’m a computer engineering undergraduate student at National Higher Polytechnic Institute of The University of Bamenda, Cameroon
